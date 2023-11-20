@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Care for hognoses </title>
+	</head>
+	
+	<body>
+		<!--page name navagition for socials simple solid boxes to suround everything-->
+		<header>
+		<!--add page name-->
+			<nav>
+			</nav>
+		</header>
+		
+		<main>
+			<!--will be area for snakes-->
+			<section>
+				<!--each one will be for an individual snake-->
+				<section>
+				<img scr="images/eastern" alt="a eastern hognose snake" />
+				</section>
+				<section>
+				</section>
+				<section>
+				</section>
+				<section>
+				</section>
+			</section>
+			<!--will be area for snake care-->
+			<section>
+				<!-- each one will be for care or upkeep of snakes-->
+				<section>
+				</section>
+				<section>
+				</section>
+				<section>
+				</section>
+				<section>
+				</section>
+			</section>
+		</main>
+	<footer>
+	<!--add a return to home button for other pages but not home-->
+	</footer>
+	
+	</body>
+</html>	
