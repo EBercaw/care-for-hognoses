@@ -189,3 +189,167 @@ a:hover{
     text-decoration: none;
     /*gives it a black box when hovered over*/
 }
+/*the southern page*/
+.southern_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.southern_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_south{
+    text-align: center;
+    width: 600px;
+}
+
+.south_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.southern_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+/*the eastern page*/
+.eastern_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.eastern_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_east{
+    text-align: center;
+    width: 600px;
+}
+
+.east_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.eastern_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+/*the enclosure page*/
+.enclose_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.enclose_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_enclose{
+    text-align: center;
+    width: 600px;
+}
+
+.enclose_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.enclose_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+/*the enclosure page*/
+.aid_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.aid_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_aid{
+    text-align: center;
+    width: 600px;
+}
+
+.aid_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.aid_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
