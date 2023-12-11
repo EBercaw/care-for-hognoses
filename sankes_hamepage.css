@@ -1,0 +1,355 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=REM:wght@500&display=swap');
+
+/*rest style sheet*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+body {
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;   
+    /*this is the background*/
+}
+section{
+    float: left;
+    background-color: #198A67;
+    text-align: center;
+    width: 800px;
+    height: 650px;
+    margin-left: 100px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    /*this is the drak green border and imgs of snakes*/
+}
+article{
+    float: right;
+    background-color: #198A67;
+    text-align: center;
+    width: 800px;
+    height: 650px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    /*this is the other dark green border with the care imgs*/
+
+}
+
+header{
+    background-color: #198A67;
+    height: 300px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+h1 {
+    font-size: 100px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+    background-color: #45E058; 
+    text-align: center;
+    width: 1400px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 110px;
+    /*this is centered LEAVE IT ALONE title*/
+}
+h2 {
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+    text-align: center;
+    background-color: #45E058;
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    border-radius: 10px;
+    padding: 10px;
+    /* says meet the hognoses*/
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+    margin: auto;
+    /*snake names*/
+    
+}
+.eastw,
+.southw{
+    text-align: center;
+    margin-right: 400px;
+}
+.mexw,
+.westw{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.east,
+.mex,
+.south,
+.west{
+    margin: 20px;
+    border-radius: 10px;
+}
+/* make class's for text to aline imager with it use float*/
+
+
+h4 {
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+    background-color: #45E058;
+    text-align: center;
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    /*says hognose care and upkeep*/
+}
+h5 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+    /*the care wording*/
+
+}
+.homew,
+.foodw{
+    text-align: center;
+    margin-right: 400px;
+}
+.stickw,
+.plusw{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.home,
+.stick,
+.food,
+.plus{
+    margin: 20px;
+    border-radius: 10px;
+
+}
+div {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+    /*nav*/
+    
+}
+#ph{
+text-align: left;
+padding-left: 10px;
+}
+/*phone text*/
+#so {
+ text-align: center;
+ margin-top: -40px;
+}
+/*soicals*/
+
+#email{
+    text-align: right;
+    margin-top: -35px;
+    padding-right: 10px;
+}
+/*email*/
+a{
+    color: #ffffff;
+    text-decoration: none;
+    /*makes the hyperlinks white*/
+}
+a :visited{
+    color: #808080;
+    text-decoration: underline;
+    /*when visted it turns gray and gets a underline*/
+    /*can't see yet because there is no other pages to vist yet :( */
+}
+a:hover{
+    background-color: #000000;
+    text-decoration: none;
+    /*gives it a black box when hovered over*/
+}
+/*the southern page*/
+.southern_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.southern_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_south{
+    text-align: center;
+    width: 600px;
+}
+
+.south_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.southern_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+/*the eastern page*/
+.eastern_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.eastern_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_east{
+    text-align: center;
+    width: 600px;
+}
+
+.east_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.eastern_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+/*the enclosure page*/
+.enclose_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.enclose_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_enclose{
+    text-align: center;
+    width: 600px;
+}
+
+.enclose_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.enclose_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+/*the enclosure page*/
+.aid_page{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-family: 'REM', sans-serif;
+}
+.aid_head{
+    background-color: #198A67;
+    height: 200px;
+    width: 1500px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    /*backgroung dark green*/
+}
+.home_aid{
+    text-align: center;
+    width: 600px;
+}
+
+.aid_sub{
+margin-left: 300px;
+border-radius: 20px;
+/*outline: 1px solid red;*/
+}
+
+.aid_text{
+    text-align: center;
+    width: 1500px;
+    margin-left: 200px;
+}
+.one{
+    background-color: #198A67;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
